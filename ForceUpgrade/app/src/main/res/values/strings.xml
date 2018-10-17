@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ForceUpgrade</string>
+    <string name="app_upto_date">O seu app precisar ser atualizado</string>
+    <string name="update_message">Atualização Necessária</string>
+    <string name="update_now">Atualizar agora?</string>
+    <string name="cancel">Cancelar</string>
+</resources>
